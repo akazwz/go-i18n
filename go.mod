@@ -1,4 +1,4 @@
-module go-i18n
+module github.com/akazwz/go-i18n
 
 go 1.16
 
